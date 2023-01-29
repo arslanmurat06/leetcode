@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/bin/Debug/net6.0/palindrome_number
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/bin/Debug/net6.0/palindrome_number.deps.json
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/bin/Debug/net6.0/palindrome_number.runtimeconfig.json
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/bin/Debug/net6.0/palindrome_number.dll
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/bin/Debug/net6.0/ref/palindrome_number.dll
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/bin/Debug/net6.0/palindrome_number.pdb
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.dll
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/ref/palindrome_number.dll
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.pdb
+/Users/muratarslan/Development/Interview/leetcode/palindrome_number/obj/Debug/net6.0/palindrome_number.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "subrarray_sums_divisible/1.0.0": {
+        "runtime": {
+          "subrarray_sums_divisible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "subrarray_sums_divisible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
